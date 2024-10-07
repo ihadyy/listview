@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="games">
+        <item>FC_2025</item>
+        <item>Fortnite</item>
+        <item>Gta</item>
+        <item>CallOfDutty</item>
+        <item>CS_Go</item>
+        <item>MineCraft</item>
+    </string-array>
+
+</resources>
